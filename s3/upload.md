@@ -1,5 +1,3 @@
-
-```md
 # S3 ファイルアップロード実践
 
 ## 目的
@@ -27,5 +25,4 @@ AWS S3を利用したファイル保存・公開方法の理解。
 
 ## AWS CLI 使用例
 
-```bash
 aws s3 cp sample.txt s3://my-bucket-name/
