@@ -41,13 +41,13 @@
 ---
 
 ## 📂 ディレクトリ構成（Structure）
-aws-learning-notes/
-├─ ec2/
-├─ s3/
-├─ iam/
-├─ deployment/
-├─ notes/
-└─ README.md
+- aws-learning-notes/
+- ├─ ec2/
+- ├─ s3/
+- ├─ iam/
+- ├─ deployment/
+- ├─ notes/
+- └─ README.md
 
 ※ 内容は学習進度に応じて随時更新しています。
 
