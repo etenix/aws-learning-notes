@@ -1,6 +1,3 @@
-### 📄 内容
-
-```md
 # Flask アプリ Docker 化
 
 ## 目的
@@ -23,6 +20,7 @@ COPY . .
 RUN pip install flask
 
 CMD ["python", "app.py"]
+```
 
 ## ビルド・起動
 ```bash
